@@ -1,5 +1,5 @@
 A PHP Spamer Bot based on telegram bot api.
-1#Put your token in index.php
+\n1#Put your token in index.php
 2#Put your chat-id in index.php $admin
 3#upload the files in your host
 4#set webhook

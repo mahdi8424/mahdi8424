@@ -5,4 +5,4 @@ A PHP Spamer Bot based on telegram bot api.</br>
 4#set webhook</br>
 5#Start the bot</br>
 6#Enjoy Your Bot...!</br>
-By @Mahdi8424 on Telegram|Mahdi8424Dev@Gmail.com</br>
+By <a href="https://telegram.me/Mahdi8424">@Mahdi8424</a> on Telegram|Mahdi8424Dev@Gmail.com</br>

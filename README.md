@@ -1,8 +1,8 @@
-A PHP Spamer Bot based on telegram bot api.
-\n1#Put your token in index.php
-2#Put your chat-id in index.php $admin
-3#upload the files in your host
-4#set webhook
-5#Start the bot
-6#Enjoy Your Bot...!
-By @Mahdi8424 on Telegram|Mahdi8424Dev@Gmail.com
+A PHP Spamer Bot based on telegram bot api.</br>
+1#Put your token in index.php</br>
+2#Put your chat-id in index.php $admin</br>
+3#upload the files in your host</br>
+4#set webhook</br>
+5#Start the bot</br>
+6#Enjoy Your Bot...!</br>
+By @Mahdi8424 on Telegram|Mahdi8424Dev@Gmail.com</br>

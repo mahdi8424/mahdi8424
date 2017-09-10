@@ -1,6 +1,6 @@
 ﻿<?php
 //توکن خود را در خط پايين قرار دهيد
-define('API_KEY','440347848:AAFuWcOvIGTIUAFnQrkzBTh1Ts61L8W8AmI');
+define('API_KEY','');
 //شناسه ادمين را جلوی مساوی قرار دهید
 $admin=312853181;
 //

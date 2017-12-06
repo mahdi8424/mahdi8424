@@ -20,6 +20,8 @@ function bot($method,$datas=[]){
     }
 }
 //
+echo '<h1>:)</h1>';
+//
 function save($file,$data){
 file_put_contents($file,$data);
 }

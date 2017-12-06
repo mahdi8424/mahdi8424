@@ -2,7 +2,7 @@
 //توکن خود را در خط پايين قرار دهيد
 define('API_KEY','');
 //شناسه ادمين را جلوی مساوی قرار دهید
-$admin=312853181;
+$admin=60453874;
 //
 //
 function bot($method,$datas=[]){
@@ -19,8 +19,6 @@ function bot($method,$datas=[]){
         return json_decode($res);
     }
 }
-//
-echo '<h1>:)</h1>';
 //
 function save($file,$data){
 file_put_contents($file,$data);
